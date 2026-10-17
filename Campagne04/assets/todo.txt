@@ -1,0 +1,44 @@
+1. Melar Neutre – L’Expérimentateur Fou
+Apparence :
+
+Un vieil enchanteur aux cheveux gris et ébouriffés, avec une barbe hirsute et des yeux brillants d’une curiosité insatiable.
+Il porte une robe longue, tachée de potions et couverte de symboles alchimiques.
+Autour de lui flottent des fioles fumantes, des orbes d’énergie instable et des parchemins déchirés.
+Son expression est un mélange de folie et de sagesse, comme s’il venait de découvrir un secret interdit.
+Ambiance :
+
+Un laboratoire en désordre, rempli d’étagères de potions, de livres anciens et d’instruments magiques.
+Des runes clignotent faiblement sur les murs, et une lumière verdâtre émane des fioles.
+Texte sur la carte :
+"Melar l’Expérimentateur (Neutre)
+Un savant perdu dans ses expériences, Melar offre des connaissances et des pouvoirs… mais à quel prix ? Ses conseils sont aussi imprévisibles que sa magie."*
+
+2. Melar Corrompu – L’Enchanteur Noir (inspiré de Saruman)
+Apparence :
+
+Une silhouette imposante, vêtue d’une robe noire et argentée, brodée de runes rouges.
+Ses cheveux, autrefois ébouriffés, sont maintenant lissés et sombres, et ses yeux brillent d’un rouge menaçant.
+Il tient un bâton noir crachant des éclairs sombres, et son visage est marqué par l’arrogance et la cruauté.
+Des ombres tourbillonnent autour de lui, comme si la magie de la Terreur le consumait.
+Ambiance :
+
+Une salle grandiose, remplie de livres maudits et de symboles tordus gravés dans la pierre.
+L’air est lourd de magie noire, et une lueur pourpre éclaire les murs.
+Texte sur la carte :
+"Melar l’Enchanteur Noir (Corrompu)
+Consumé par sa soif de pouvoir, Melar manie désormais la magie la plus sombre. Ses offres sont tentantes, mais sa loyauté appartient aux forces de la Terreur. Oserez-vous lui faire confiance ?"*
+
+3. Melar Lumineux – Le Sage de la Nature (inspiré de Radagast)
+Apparence :
+
+Une robe fluide, aux tons verts et bruns, ornée de lianes et de runes bleutées.
+Ses cheveux et sa barbe sont sauvages mais doux, et ses yeux brillent d’une lumière dorée et apaisante.
+Il est entouré de petites créatures de la forêt (oiseaux, écureuils) et tient un bâton surmonté d’un cristal lumineux.
+Son expression est bienveillante, pleine de sagesse et de compassion.
+Ambiance :
+
+Une clairière paisible, baignée de lumière dorée, avec des arbres anciens et une source cristalline.
+L’air est rempli du chant des oiseaux et du murmure des feuilles.
+Texte sur la carte :
+"Melar le Rédimé (Lumineux)
+Purifié par le courage des héros, Melar est désormais un guide de sagesse et de lumière. Ses connaissances sont un don, et ses conseils, une bénédiction pour ceux qui cherchent la voie de la justice."*

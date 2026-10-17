@@ -1,0 +1,74 @@
+📜 MESSAGE DE MENTOR
+(Ton : Solennel, urgent. Mentor parle d’une voix grave, comme s’il portait le poids de l’Empire sur ses épaules.)"Mes amis, j’ai des nouvelles alarmantes. L’Empereur est assiégé dans le Donjon de Kellar, la forteresse souterraine de Karak Varn. Ce bastion, jadis imprenable, est maintenant encerclé par les légions de Grawshak. Les vivres manquent, et chaque jour qui passe affaiblit nos défenses. Les tunnels des Nains, autrefois nos alliés, sont maintenant infestés d’Orcs et de Gobelins. Mais il reste un espoir : le Pic de Grin, un passage secret oublié, mentionné dans le grand livre de Loretome. Ce passage pourrait nous permettre de sauver l’Empereur… si vous parvenez à rassembler les fragments de la carte de Grin, dispersés dans les Halls de Belorn. Méfiez-vous, car ces lieux sont hantés par les ombres des rois nains et gardés par des pièges mortels. Le temps nous est compté. Allez, mes amis. L’Empire compte sur vous."
+
+-------------------------------------------------Jour 0 : Le Siège Commence------------------------------------------------
+Description : "La nuit tombe sur Karak Varn. Les corbeaux tournent au-dessus des remparts, et les étendards impériaux claquent dans un vent glacé. Les éclaireurs rapportent que les hordes d’Orcs et de Gobelins, menées par les sorciers du Chaos, ont encerclé la forteresse. L’Empereur, blessé mais déterminé, envoie un dernier message aux héros : ‘Les tunnels des Nains sont votre seule chance. Hâtez-vous… ou l’Empire tombera avec moi.’ Les portes du donjon se referment dans un grondement sourd. Vous êtes maintenant la dernière lueur d’espoir."
+Ambiance :
+•	Bruit de guerre lointain (tambours, cris).
+•	Un messager impérial, à l’agonie, remet aux héros une carte partielle des tunnels et une médaille de l’Empereur (symbole de leur mission).
+
+----------------------------------------------Jour 1-3 : Résistance Organisée----------------------------------------------
+Description (Jour 1) : "Dans les tunnels, l’écho des combats au loin résonne comme un roulement de tonnerre. Les murs vibrent sous les coups de bélier des Orcs. Un soldat impérial, posté près de l’entrée des Halls de Belorn, murmure en vous voyant passer : ‘Ils tiennent encore… mais pour combien de temps ? Les tours extérieures sont noyées sous les flèches enflammées. Si vous entendez les cors sonner trois fois, ce sera la fin.’ Il vous tend une fiole de potion de résistance (symbolique, sans effet mécanique), ‘Pour vous rappeler pourquoi vous combattez.’"
+Description (Jour 2) : "Un courant d’air glacé s’engouffre dans les galeries, portant une odeur de fumée et de chair brûlée. Quelque part, une voix hurle : ‘Ils ont enfoncé la porte est !’ Un groupe de nains survivants, les yeux cernés de suie, croise votre route. Leur chef grogne : ‘Nous avons tenu une journée de plus que prévu. Mais sans renforts, Karak Varn tombera avant l’aube.’ Il vous montre une rune gravée sur le mur : un compte à rebours en langue naine. ‘Trois jours. Pas un de plus.’"
+Description (Jour 3) : "Les tunnels semblent se rétrécir, comme si la montagne elle-même retenait son souffle. Un éclaireur impérial, le visage en sang, s’effondre devant vous : ‘Les catapultes… Ils ont écrasé les tours de guet. Les archers ne répondent plus. L’Empereur a ordonné de sceller les portes intérieures. Vous êtes notre dernière chance.’ Il vous remet un parchemin scellé (message de l’Empereur : "Je sais que vous entendez ces mots. Ne me décevez pas.").
+Ambiance :
+•	Bruit de pierre qui craque (écho des catapultes).
+•	Odeur de fumée et de métal chaud.
+
+-------------------------------------------------Jour 4 : Premières Brèches-------------------------------------------------
+Description : "Un tremblement secoue les galeries. De la poussière tombe du plafond, et un cri étouffé résonne dans les couloirs : ‘Ils ont percé les murs !’ Un nain blessé, adossé contre un pilier, serre une hache brisée contre sa poitrine. Il tousse, crache du sang, et murmure : ‘Les Orcs sont dans la cour intérieure. Ils ont tué le capitaine des gardes. L’Empereur s’est retirer dans le donjon… mais pour combien de temps ?’ Il vous tend une clé rouillée : ‘Celle-ci ouvre la porte est des Halls de Belorn. Prenez-la. Et dépêchez-vous.’"
+Événement optionnel :
+•	Si les héros prennent la clé, ils gagnent un raccourci dans la quête suivante (-1 jour).
+
+-------------------------------------------------Jour 5 : Message Désespéré------------------------------------------------
+Description : "Un pigeon voyageur, blessé, atterrit près de vous. Attaché à sa patte, un parchemin taché de sang : ‘À ceux qui portent encore l’espoir : les murs intérieurs ne tiendront pas. J’ai envoyé mes derniers hommes mourir pour vous gagner du temps. Ne gaspillez pas leur sacrifice. — L’Empereur.’ Le pigeon meurt dans vos mains. Au loin, un cor de guerre retentit, suivi d’un silence glaçant. Puis un rire rauque, celui de Grawshak, semble murmurer dans les ombres : ‘Vos amis meurent pendant que vous tergiversez.’"
+Ambiance :
+•	Silence soudain, puis rire démoniaque (Grawshak).
+•	Le parchemin sent la cendre.
+
+----------------------------------------------Jour 6 : Chute des Tours de Guet---------------------------------------------
+Description : "Un grondement sourd ébranle les tunnels. Les torches vacillent, et une pluie de cailloux s’abat sur vous. Un nain, les yeux écarquillés, hurle : ‘Les tours de guet ! Elles sont tombées !’ Un éclaireur impérial, couvert de poussière, trébuche dans la salle. Il bégaye : ‘Les Orcs… ils ont tout écrasé. Les archers, les catapultes… Il ne reste plus que le donjon. L’Empereur a ordonné de brûler les réserves. Ils ne veulent pas que Grawshak en profite.’ Il s’effondre, mort. Dans sa main, une médaille de l’Empereur, identique à la vôtre. Elle est tiède, comme si elle venait d’être arrachée à son cou."
+Conséquence narrative :
+•	Les coffres de vivres dans les quêtes suivantes sont vides (remplacés par des pièges ou des cadavres).
+-----------------------------------------------Jour 7 : Assaut des Catapultes-----------------------------------------------
+Description : "Un craquement assourdissant déchire l’air. Les murs tremblent, et une fissure zèbre le plafond du tunnel. Un nain, pâle comme un spectre, murmure : ‘Ils utilisent les catapultes contre les fondations… La montagne elle-même va nous enterrer.’ Un bloc de pierre tombe devant vous, bloquant le passage direct. Un détour s’impose (+1 jour). Derrière le rocher, une main squelettique émerge de l’ombre, tenant un parchemin jauni : une carte partielle des tunnels, griffonnée par un ancien roi nain. Dessus, une phrase : ‘Le temps est une épée à double tranchant.’"
+Événement optionnel :
+•	Si les héros suivent la carte, ils évitent un piège majeur (ex : la boule de pierre dans le Passage en Spirale).
+---------------------------------------------------------Jour 8 : Trahison-------------------------------------------------------
+
+Description : "Un cri de trahison résonne dans les couloirs. Un chevalier impérial, l’armure couverte de runes du Chaos, bloque votre route. Il ricane : ‘L’Empereur est déjà mort. Grawshak m’a promis la vie… et le pouvoir. Pourquoi résister ?’ Derrière lui, des Orcs avancent en riant. Le chevalier lève son épée : ‘Joignez-vous à nous, ou mourrez comme des idiots.’ Un parchemin tombe de sa ceinture : un ordre de l’Empereur, daté d’hier, le déclarant traître. Il est encore chaud."
+Conséquence narrative :
+•	Ce chevalier réapparaît comme ennemi dans une quête ultérieure (ex : dans la Grande Citadelle).
+
+
+-------------------------------------------------Jour 9 : Dernières Réserves-------------------------------------------------
+
+Description : "Une odeur de viande pourrie emplit les tunnels. Un soldat impérial, les yeux creusés par la faim, s’effondre devant vous. Il murmure : ‘On a mangé les chevaux hier. Aujourd’hui… on tire au sort. Demain, ce sera les blessés.’ Il vous tend un morceau de pain noirci : ‘Prenez-le. C’est tout ce qui reste. L’Empereur a refusé de toucher aux réserves des officiers… mais même eux commencent à douter.’ Derrière lui, un groupe de soldats regarde vos provisions avec des yeux affamés. L’un d’eux chuchote : ‘Eux, ils ont de la nourriture…’"*
+Dilemme optionnel :
+•	Partager les vivres (perte de ressources, mais gain de respect auprès des PNJ).
+•	Refuser (les soldats deviennent hostiles dans les quêtes suivantes).
+
+
+-----------------------------------------------Jour 10 : Les Portes Tremblent-----------------------------------------------
+
+Description : "Un bruit de métal qui se tord déchire le silence. Un nain, les oreilles saignantes, hurle : ‘Ils enfoncent les portes du donjon ! J’entends les haches !’ Un vent glacé s’engouffre dans les tunnels, portant des cries de combat et des rires démoniaques. Une voix rauque, celle de Grawshak , semble murmurer dans votre nuque : ‘Vos amis meurent. Leurs cris sont une musique à mes oreilles.’ Un messager, le visage en sang, trébuche vers vous. Il bégaye : ‘L’Empereur… il est blessé. Il a ordonné de sceller les dernières portes. Vous n’avez plus que quelques heures.’ Il meurt en vous tendant une bague impériale (symbole de l’autorité de l’Empereur)."
+Conséquence narrative :
+•	Les ennemis dans les quêtes suivantes gagnent en agressivité (dialogues plus menaçants, attaques surprises).
+
+
+--------------------------------------------Jour 11 : L’Empereur Blessé--------------------------------------------
+Description : "Un souffle brûlant balaye les tunnels. Un soldat impérial, les vêtements en lambeaux, s’effondre devant vous. Il serre contre lui un parchemin scellé du sceau de l’Empereur : ‘À ceux qui liront : je ne tiendrai pas 48 heures. Les Orcs ont brisé les dernières défenses. Si vous entendez ce message, sachez que j’ai cru en vous jusqu’au bout. Sauvez ce qui peut l’être. — L’Empereur.’ Le parchemin est tiède, comme s’il venait d’être écrit. Derrière le soldat, une ombre bouge. Celle d’un Orc, qui ricane : ‘Votre Empereur va mourir. Et vous avec.’"*
+Objet clé :
+•	La bague impériale (trouvée au Jour 10) brille faiblement. Si les héros la portent devant la Gargouille du Pic de Grin, celle-ci hésite avant d’attaquer.
+
+--------------------------------------------Jour 12 : Effondrement des Défenses-----------------------------------------
+Description : "Un tremblement de terre secoue les galeries. Des blocs de pierre s’effondrent, bloquant des passages. Un nain, les yeux fous, hurle : ‘C’est fini ! Les Orcs sont dans le donjon ! J’ai vu… j’ai vu Grawshak lui-même marcher dans les couloirs !’ Il s’effondre, mort de terreur. Dans sa main, une pierre gravée : un symbole nain ancien, celui de l’ultime sacrifice. Derrière vous, une voix familière murmure : ‘Courez… Il ne reste plus rien à sauver.’ C’est la voix du messager du Jour 0. Son fantôme ? Ou un dernier écho de son âme ?"
+Conséquence narrative :
+•	Les derniers alliés (PNJ) meurent en encourageant les héros ("Sauvez-le…").
+•	Les ennemis deviennent plus nombreux (ex : +1 Orc par combat).
+
+
+--------------------------------------------Jour 13 : Chute de Karak Varn--------------------------------------------
+Description (si les héros échouent) : "Vous émergez enfin dans le donjon de Kellar… pour trouver un carnage. Les bannières impériales sont déchirées, remplacées par l’étendard de Grawshak. Le trône est brisé, et au centre de la salle, l’épée de l’Empereur gît dans une mare de sang. Un Orc, assis sur le trône, ricane en vous voyant : ‘Vous arrivez trop tard, petits héros. Votre Empereur est mort. Et maintenant… c’est à votre tour.’ Derrière lui, la silhouette de Grawshak se matérialise, entourée d’une aura violette. Il tend la main vers vous, et sa voix résonne comme un glas : ‘Votre échec est ma victoire. Bienvenue dans l’ère du Chaos.’"
+Description (si les héros réussissent) : "Vous franchissez les dernières portes du donjon alors que les Orcs envahissent les couloirs. Au centre de la salle, l’Empereur, blessé mais vivant, se redresse en vous voyant. Il tend son épée vers vous, tremblant : ‘Vous… vous avez réussi. Contre tout espoir.’ Derrière lui, les derniers gardes meurent en retenant les Orcs. L’Empereur serre votre main : ‘L’Empire vous doit tout. Mais la guerre n’est pas finie. Fuyez… et préparez la reconquête.’ Alors que vous quittez le donjon, une explosion secoue les murs : les nains ont fait sauter les tunnels pour sceller Zargon à l’intérieur. La montagne tremble… et s’effondre derrière vous."
+

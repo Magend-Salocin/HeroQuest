@@ -1,0 +1,464 @@
+📜 Récit Chronologique de la Campagne : La Chute de Kalos
+
+⚔️ MESSAGE DE MENTOR : LE RETOUR DU SEIGNEUR SORCIER
+
+Lieu : Plaines de la Mort, en route vers la cité maudite de Kalos Objectif : Infiltrer la forteresse du Seigneur Sorcier et l’anéantir avant qu’il ne rassemble son armée de morts-vivants pour détruire l’Empire. Mais attention : ses lieutenants (Skulmar, Kessandria) et ses pièges mortels attendent les héros.
+
+
+🌌 INTRODUCTION (AMBIANCE)
+
+(Ton : Solennel et oppressant. Le vent hurle sur les Plaines de la Mort, une étendue stérile et brûlée par un soleil impitoyable. L’air est lourd, chargé d’une odeur de cendre et de soufre, comme si la terre elle-même avait été maudite. Les ruines de Kalos se dressent à l’horizon, leurs murs noircis portant les cicatrices d’une ancienne bataille. Une présence maléfique pèse sur les héros, comme si le Seigneur Sorcier les observait depuis les ombres. Mentor apparaît soudain, son visage marqué par l’urgence, ses yeux brillants d’une lueur inquiète.)
+
+Dialogue (Mentor, voix grave et pressante) : "Dignes compagnons…" (un souffle lourd, comme s’il portait le poids de l’Empire sur ses épaules) "Nous devons agir rapidement. Le Seigneur Sorcier n’est pas mort. Il s’est échappé de Barak Tor et a rejoint la cité perdue de Kalos." (il serre les poings, et des éclairs bleutés dansent autour de ses doigts) "Il y a bien longtemps, cette cité fut détruite par Zargon et donnée en fief au Seigneur Sorcier. Sous ses ruines, il a bâti une forteresse souterraine, où la lumière du jour ne pénètre jamais… car ses créatures ne la supportent pas."
+"Une fois sa puissance restaurée, il rassemblera son armée de morts-vivants pour attaquer l’Empire." (sa voix se fait plus sombre) "Ses guerriers ne connaissent ni la peur ni la pitié. Ils combattent jusqu’à leur dernière once de chair."
+
+"Vous avez marché pendant des jours à travers ces Plaines de la Mort, où chaque pas était une épreuve." (il regarde vers les ruines, où des ombres semblent bouger) "Le Seigneur Sorcier vous a épiés depuis le début. Assis sur son Grand Trône de Kalos, il voit tout. Personne ne peut échapper à sa vigilance."
+
+"Si nous n’agissons pas maintenant, il sera rejoint par Skulmar, le capitaine de la Légion Oubliée, et Kessandria, la Reine Sorcière." (un frisson parcourt l’air) "Si ces deux-là s’allient à lui, les os de tous les guerriers tombés se lèveront sous la Bannière Noire."
+"C’est à vous, braves héros, qu’il revient d’anéantir le Seigneur Sorcier une fois pour toutes." (il tend la main, et une lueur dorée enveloppe les héros) "Quand vous aurez besoin de mes conseils, écoutez au plus profond de vous-mêmes."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📜 Quête 1 : La Porte du Destin         Lieu : Entrée de la forteresse de Kalos, Plaines de la Mort
+Dialogue du Mentor (voix grave, pressante, comme chargée de siècles de souvenirs)
+"Vous y voici, mes amis. La Porte du Destin… Ce seuil marque l’entrée du domaine maudit d’Agrain, jadis roi des nains de Kalos, aujourd’hui réduit en poussière par la trahison de Zargon. Les runes que vous voyez sur ces murs sont les derniers vestiges de sa résistance. Elles racontent une histoire… celle d’un peuple qui a tenté de sceller le mal ici même." "Mais attention : ces couloirs sont hantés par les échos du passé. Les pièges d’Agrain sont encore actifs, et les serviteurs du Seigneur Sorcier rôdent. Chaque pas que vous faites ici pourrait être votre dernier… ou votre premier vers la vérité."
+
+🎨 Ambiance
+Description (ton oppressant et mystérieux) La porte d’entrée de Kalos est une bouche béante, taillée dans une pierre noire veillée de runes du Chaos qui pulsent faiblement, comme un cœur battant. Le sol est jonché d’ossements et de traces de griffes récentes. Une brume froide stagne au niveau des chevilles, et des chuchotements en langue naine résonnent dans les couloirs, comme si les murs murmuraient des avertissements. Au loin, une lueur rougeâtre filtre à travers une porte entrouverte. Un Guerrier du Chaos (un éclaireur de Skulmar) rôde près de l’entrée, son armure noire reflétant une lueur maléfique.
+
+🎯 Objectifs de la Quête
+•	Traverser les couloirs pour atteindre la Porte du Destin (une porte massive en pierre noire, gravée de symboles nains et corrompue par des runes du Chaos).
+•	Découvrir un indice sur Agrain (son héritage, ses mécanismes, ou sa trahison).
+•	Affronter ou éviter le Guerrier du Chaos (un éclaireur de Skulmar).
+•	Trouver une "Carotte d’Enquête" (jet de dé en fin de quête).
+
+🎲 Carotte d’Enquête (Fin de Quête)
+•	Résultat 1 (Agrain – Lore) : "Les runes sur les murs sont des avertissements : ‘Le sang des nains scelle les portes.’" → Permet de désactiver un piège dans la Quête 3 en utilisant du sang.
+•	Résultat 2 (Agrain – Lore) : "Le marteau rouillé porte l’insigne de la guilde des forgerons d’Agrain : ‘Seul le Fer purifie.’" → Indique que le Fer de l’Esprit (Quête 3) est lié à cette guilde.
+•	Résultat 3 (Skulmar – Tactique) : "L’insigne du Guerrier du Chaos porte un numéro : ‘Légion Oubliée, 7ème Cohorte.’" → Révèle que Skulmar divise ses troupes en cohortes (utile pour la Quête 7).
+•	Résultat 4 (Skulmar – Tactique) : "Le Guerrier a murmuré ‘Bellthor’ avant de mourir. Un nom… ou une menace ?" → Prévient les héros de l’arrivée de Bellthor (Quête 5).
+•	Résultat 5 (Agrain – Secret) : "Le parchemin mentionne un ‘mécanisme central’ sous les Halls de Glace (Quête 2)." → Permet de trouver un passage secret dans la Quête 2.
+•	Résultat 6 (Skulmar – Révélation) : "Une carte cachée montre un ‘avant-poste’ de Skulmar près des Passages du Silence (Quête 3)." → Déverrouille un objectif secondaire : saboter l’avant-poste avant la Quête 7.
+🔍 Événements Clés & Choix des Joueurs
+1. L’Énigme des Runes Naines
+En entrant, les héros remarquent que les runes sur les murs forment une séquence répétitive. Certaines brillent faiblement quand on les touche.
+Option 1 : Décrypter les runes (jet d’Arcanes ou d’Histoire)
+•	Réussite : Les runes révèlent un message d’Agrain : "Seul le digne franchira le seuil. Cherchez la pierre qui saigne." Cela indique qu’une pierre rougeâtre (un minerai nain) près de la porte peut désactiver un piège.
+•	Échec : Un piège à lame se déclenche (jet de Dextérité pour l’éviter).
+Option 2 : Ignorer les runes et avancer prudemment
+•	Risque de déclencher un piège (ex : effondrement partiel du plafond).
+
+2. Le Guerrier du Chaos
+Un Guerrier du Chaos (un éclaireur de la Légion de Skulmar) barre partiellement le passage. Il semble attendre quelque chose… ou quelqu’un.
+Option 1 : L’affronter (combat standard)
+•	Récompense : Son insigne de la Légion Oubliée (indice sur Skulmar) et une dague empoisonnée.
+•	Risque : Le bruit attire d’autres ennemis (jet de Discrétion pour éviter).
+Option 2 : Le distraire (jet de Tromperie ou Persuasion)
+•	Réussite : "Tu as raison, frère ! Ces couloirs sont maudits… Je vais vérifier plus loin." Il s’éloigne, révélant un passage secret (voir ci-dessous).
+•	Échec : "Tu te moques de moi, vermine ?!" → Combat immédiat.
+Option 3 : Se cacher (jet de Discrétion)
+•	Réussite : Les héros observent le Guerrier activer un mécanisme caché (lié à Agrain), révélant un indice.
+•	Échec : Le Guerrier les repère et donne l’alerte (renforts en 3 rounds).
+3. La Salle Cachée d’Agrain
+Si les héros distraient le Guerrier ou trouvent le passage secret, ils découvrent une petite chambre circulaire, éclairée par une pierre lumineuse naine (un vestige des mécanismes d’Agrain).
+Contenu de la salle :
+•	Un autel nain portant un marteau rouillé (symbole d’Agrain) et un parchemin : 
+"À celui qui lira ces mots : Kalos était notre fierté. Zargon en a fait notre tombe. J’ai scellé ce que je pouvais avec des runes et des mécanismes, mais le mal a percé chaque défense. Si vous lisez ceci, sachez que la Légion de Skulmar n’est que l’ombre de ce que nous étions. Méfiez-vous de ses pièges… et de ses maîtres. — Agrain, dernier roi de Kalos."
+•	Un levier caché (jet de Perception pour le trouver) : 
+o	Si activé : Ouvre un passage direct vers la Porte du Destin (évite un combat).
+o	Si brisé : Déclenche un piège à gaz (jet de Constitution pour résister).
+
+❄️ Quête 2 : Les Halls de Glace 
+Lieu : Passages glacés de Kalos, anciens halls du royaume nain d’Agrain
+Dialogue (Voix des Cavaliers Fantômes, écho lointain) "Qui ose troubler notre repos ?" (un murmure rauque, comme le vent dans un ossuaire) "Nous étions les élites du Seigneur Sorcier…" (un cliquetis d’armures) "…et nous attendons son appel pour nous lever une dernière fois."
+Dialogue (Voix du Mentor, chuchotement urgent) "Avancez avec prudence, mes amis…" (un souffle glacé) "Ces halls furent conçus pour tester les guerriers nains les plus valeureux. Mais les Cavaliers Fantômes ne sont pas des ennemis ordinaires. Ils ne connaissent pas la peur… et ils ne pardonnent pas les intrus."
+🎨 Ambiance Description (ton glacial et spectral) Les murs des Halls de Glace sont couverts d’une fine couche de givre, comme si le temps lui-même s’était figé. Des statues de guerriers squelettiques, jadis les Cavaliers Fantômes du Seigneur Sorcier, sont alignées le long des couloirs, leurs armures noires brillant faiblement sous une lueur bleutée. L’air est silencieux, presque étouffé par le froid, mais des chuchotements résonnent parfois, comme si les esprits des morts murmuraient des avertissements. Une porte en fer rouillée, gravée de symboles nains, bloque l’accès à l’escalier en spirale menant aux profondeurs. Une brume froide stagne au sol, comme si elle attendait que quelqu’un la trouble. Soudain, un grincement métallique retentit : une statue bouge légèrement, comme si elle respirait.
+🎯 Objectifs de la Quête • Découvrir la vérité sur les Cavaliers Fantômes et leur lien avec Agrain. • Trouver un indice majeur dans le journal d’Agrain (ou sur le mécanisme nain). • Récupérer la clé naine rouillée pour débloquer un passage dans les Passages du Silence 
+🎲 Carotte d’Enquête (Fin de Quête) 
+• Résultat 1 (Agrain – Lore) : "Les runes sur les murs décrivent un ‘Sceau d’Agrain’ : un mécanisme capable de sceller une partie de Kalos." → Bonus de +2 pour détecter les mécanismes nains dans l’Acte II.
+• Résultat 2 (Agrain – Lore) : "Les Cavaliers Fantômes portent des armures forgées avec un alliage nain rare : le ‘Mithril Noir’." → Permet de vendre ou d’utiliser ces armures comme preuve de loyauté envers les nains survivants.
+• Résultat 3 (Agrain – Tactique) : "Le journal d’Agrain mentionne que ses mécanismes répondent à des ‘mots de pouvoir’ nains." → Les héros peuvent désactiver un piège dans la Quête 3 en prononçant le mot "Dûrgrimst" (honorabilité naine).
+• Résultat 4 (Skulmar – Tactique) : "Skulmar était autrefois le capitaine de la garde d’Agrain. Il connaît les faiblesses des défenses naines." → Avantages pour anticiper ses stratégies dans la Quête 7.
+• Résultat 5 (Agrain – Secret Majeur) : "Le Fer de l’Esprit, mentionné dans le journal, est caché dans les Passages du Silence. Il peut briser les sorts de Kessandria." → Permet de localiser le Fer de l’Esprit plus facilement dans la Quête 3.
+• Résultat 6 (Skulmar – Révélation Clé) : "Un plan caché montre l’emplacement d’un ‘avant-poste’ de Skulmar dans les profondeurs, lié à sa Légion Oubliée." → Déverrouille un objectif secondaire : infiltrer l’avant-poste dans l’Acte III.
+🔍 Événements Clés & Choix des Joueurs
+La Découverte des Cavaliers Fantômes Les héros réalisent que ces guerriers squelettiques étaient autrefois les gardes d’élite du roi Agrain, corrompus par Zargon pour servir le Seigneur Sorcier. Leurs armures portent des insignes nains, mais aussi des gemmes noires (liées à la magie de Kessandria). 
+ Option 1 : Étudier les insignes (jet d’Histoire ou d’Investigation) 
+Réussite : Révèle un indice sur l’organisation militaire naine et un point faible des Cavaliers (lié à Agrain). 
+Échec : Les héros ne remarquent rien d’utile. 
+
+Option 2 : Tenter de communiquer (jet de Persuasion ou de Religion) 
+ Réussite : Un Cavalier murmure : "Agrain… trahison… Zargon…" avant de se taire. 
+ Échec : Les Cavaliers restent silencieux et menaçants.
+2. Le Mécanisme Nain Oublié En explorant la salle, les héros trouvent un panneau de contrôle nain partiellement fonctionnel, gravé de runes liées à Agrain. • Action possible : Réactiver le mécanisme (jet d’Arcanes ou d’Ingénierie) 
+•	Réussite : La porte en fer s’entrouvre, révélant un passage secret menant à une petite chambre. 
+•	Échec : Le mécanisme grince et se bloque définitivement.
+3. La Chambre Secrète Dans la chambre, les héros trouvent : 
+• Un journal d’Agrain (fragmenté) : "Zargon a corrompu mon peuple en promettant l’immortalité. J’ai tenté de sceller Kalos avec des mécanismes et des runes, mais il a brisé chaque défense. Mes gardes, mes Cavaliers… tous tombés sous son emprise. Seul le Fer de l’Esprit, forgé dans les Passages du Silence, peut briser ses chaînes." "Skulmar n’était qu’un capitaine parmi d’autres… mais Zargon en a fait un monstre. Méfiez-vous de sa Légion : elle est l’ombre de ce que nous étions." • Une clé naine rouillée (liée aux Passages du Silence, Quête 3).
+
+
+
+
+
+
+
+
+
+⚒️ Quête 3 : Les Passages du Silence 
+Lieu : Halls sacrés de Kalos, sous les ruines du royaume nain
+Dialogue (Voix du Roi Agrain, écho lointain) "Qui ose troubler le silence de Kalos ?" (un murmure grave, comme une épée qu’on dégage de son fourreau) "Ces halls furent le dernier rempart contre le Chaos…" (un souffle glacé) "…et ils n’ont pas oublié la trahison. Avancez avec prudence, mortels. Le Brouillard de la Mort guette… et il a faim."
+Dialogue (Voix du Brouillard, chuchotement spectral) "Vous êtes entrés…" (un rire étouffé) "…dans le domaine des ombres. Ici, le silence tue… et le Brouillard consume."
+🎨 Ambiance Description (ton étrange et étouffant) Les Passages du Silence sont plongés dans un calme surnaturel, comme si le temps s’était arrêté il y a mille ans. Les murs, couverts de runes naines anciennes, brillent faiblement sous une lueur bleutée, comme si les esprits du roi Agrain et de ses sujets veillaient encore. Une brume légère stagne au sol, et des chuchotements à peine audibles résonnent, comme si les âmes des défenseurs murmuraient des avertissements. Soudain, un souffle glacé traverse le couloir : le Brouillard de la Mort se lève, prêt à engloutir les imprudents. Une tombe naine, à moitié ouverte, dégage une lueur verdâtre, comme si quelque chose y était encore prisonnier.
+🎯 Objectifs de la Quête • Traverser les Passages du Silence en évitant ou en surmontant le Brouillard de la Mort. • Découvrir la Salle Secrète d’Agrain et récupérer le fragment du Fer de l’Esprit. • Trouver la clé en mithril pour ouvrir la porte scellée menant aux Halls de Vision (Quête 4). • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+🎲 Carotte d’Enquête (Fin de Quête) 
+• Résultat 1 (Agrain – Lore) : "Les runes sur la porte décrivent un ‘Sceau d’Agrain’ : un mécanisme capable de sceller une partie de Kalos." → Permet de désactiver un piège dans les Halls de Vision (Quête 4).
+• Résultat 2 (Agrain – Lore) : "Le fragment du Fer de l’Esprit porte une inscription : ‘Seul le digne peut briser les chaînes.’" → Le porteur du Fer gagne +1 aux jets de volonté contre la corruption.
+• Résultat 3 (Skulmar – Tactique) : "Le parchemin mentionne que Skulmar craint le Fer de l’Esprit : ‘Son éclat brûle mes yeux.’" → Dans la Quête 7, Skulmar évite le porteur du Fer pendant 1 round.
+• Résultat 4 (Skulmar – Tactique) : "Une carte montre que la Légion de Skulmar patrouille près des Halls de Vision." → Permet d’éviter une embuscade dans la Quête 4.
+• Résultat 5 (Agrain – Secret) : "Le journal d’Agrain révèle l’emplacement d’un ‘laboratoire secret’ dans les Halls de Vision." → Déverrouille un objectif secondaire : trouver des parchemins de sort cachés.
+• Résultat 6 (Skulmar – Révélation) : "Un plan montre un ‘repaire’ de Skulmar dans les profondeurs, lié à sa Légion Oubliée." → Permet de saboter ses réserves avant la Quête 7 (réduit ses renforts).
+
+
+
+🔍 Événements Clés & Choix des Joueurs
+1. Le Brouillard de la Mort Dès leur entrée, les héros sentent une présence hostile dans la brume. Elle semble réagir à leurs mouvements, comme si elle était vivante. • Option 1 : Traverser rapidement (jet de Dextérité) – Réussite : Ils évitent les zones les plus denses et arrivent sains et saufs près de la porte scellée. – Échec : La brume les enveloppe (jet de Constitution pour résister à son effet étouffant ; échec = 1d6 dégâts de nécrose).
+• Option 2 : Utiliser un artefact (ex : Eau Bénite de la Quête 2) – Effet : La brume se dissipe temporairement, révélant un passage caché menant à une salle secrète.
+• Option 3 : Communiquer avec les esprits (jet de Religion ou Persuasion) 
+– Réussite : Une voix d’Agrain murmure : "Le Fer de l’Esprit… cherchez-le près de la porte scellée. Il est votre seule chance." 
+– Échec : Les chuchotements deviennent hostiles ("Intrus !"), et la brume s’épaissit.
+
+2. La Salle Secrète d’Agrain Si les héros utilisent l’Eau Bénite ou trouvent le passage caché, ils découvrent une petite chambre circulaire, éclairée par une pierre lumineuse naine (un vestige des forges d’Agrain).
+Contenu de la salle : • Un autel nain portant : – Un fragment du Fer de l’Esprit (arme capable de briser les sorts de Kessandria). – Un parchemin jauni : "À celui qui trouvera ces mots, Le Fer de l’Esprit fut forgé dans les larmes de mon peuple. Il peut briser les chaînes de la corruption… mais seulement si son porteur est digne. Skulmar en a peur. Utilisez-le bien. — Agrain" – Une clé en mithril (ouvre la porte scellée des Halls de Vision, Quête 4).
+Piège possible : Si un héros touche le fragment du Fer sans précaution (jet de Sagesse échoué), il subit une vision : "Vous voyez Agrain, agonisant, tandis que Skulmar rit en brandissant une épée noire. ‘Ton royaume est à moi, vieux roi.’" → Le héros gagne un malus temporaire (-1 aux jets d’attaque) jusqu’à la fin de la quête (effet psychologique).
+
+3. La Porte Scellée Pour ouvrir la porte menant aux Halls de Vision (Quête 4), les héros doivent : 
+• Option 1 : Utiliser la clé en mithril (trouvée dans la salle secrète). – Effet : La porte s’ouvre sans résistance, révélant un couloir éclairé par des torches bleutées.
+• Option 2 : Forcer la serrure (jet de Force ou d’Outils de voleur) – Réussite : La porte cède, mais un piège à lame se déclenche (jet de Dextérité pour l’éviter). – Échec : La porte résiste, et un gémissement spectral résonne : "Indignes !" (un esprit nain apparaît et attaque).
+• Option 3 : Résoudre l’énigme des runes (jet d’Arcanes ou d’Histoire) – Énigme : "Je suis la clé sans serrure, la lumière sans flamme. Agrain m’a forgé pour protéger son peuple. Qui suis-je ?" (Réponse : le Fer de l’Esprit) – Réussite : La porte s’ouvre, et les runes s’illuminent en hommage à Agrain.
+🌌 Quête 4 : Les Halls de Vision 
+Lieu : Ancien laboratoire magique du roi Agrain
+Dialogue (Voix du Roi Agrain, écho solennel) "Bienvenue dans mes Halls de Vision, mortels…" (un murmure résonnant, comme une épée qu’on sort de son fourreau) "Ici, les illusions révèlent la vérité, et les clés ouvrent les portes du savoir…" (un souffle magique) "…mais seul le digne peut les obtenir. Méfiez-vous : mes Momies gardiennes ne dorment pas."
+Dialogue (Voix des Momies, chuchotement spectral) "Intrus…" (un grincement d’os) "Le roi Agrain ne tolère pas les voleurs…" (une lueur rouge traverse leurs yeux) "…et nous sommes ses gardiennes éternelles."
+________________________________________
+🎨 Ambiance Description (ton mystérieux et enchanté) Les Halls de Vision sont baignés d’une lueur dorée, comme si la magie du roi Agrain y était encore active. Les murs, couverts de runes naines anciennes, semblent bouger légèrement, comme des illusions. Des portes scellées par des serrures magiques bloquent le passage, et des statues de Momies naines (anciennes gardiennes) veillent sur chaque salle. Une odeur de parchemin ancien et de métal enchanté flotte dans l’air.
+________________________________________
+🎯 Objectifs de la Quête • Affronter ou apaiser les Momies gardiennes pour progresser. • Explorer le laboratoire d’Agrain et récupérer les 4 Clés d’Agrain. • Traverser la Salle des Illusions pour quitter les Halls de Vision. • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+🎲 Carotte d’Enquête (Fin de Quête) 
+• Résultat 1 (Agrain – Lore) : "Les Clés d’Agrain étaient destinées à sceller Zargon… mais elles ont été corrompues." → Permet de purifier une clé dans la Quête 5 (réduit la corruption d’un ennemi).
+• Résultat 2 (Agrain – Lore) : "Un parchemin décrit un ‘rituel de purification’ pour le Fer de l’Esprit." → Le Fer gagne +1d6 dégâts contre les démons dans l’Acte III.
+• Résultat 3 (Skulmar – Tactique) : "Skulmar utilise les Clés corrompues pour contrôler sa Légion." → Dans la Quête 7, voler une clé à Skulmar affaiblit ses troupes.
+• Résultat 4 (Kessandria – Tactique) : "Les illusions ici sont liées à Kessandria : elle les utilise pour espionner les intrus." → Permet de repérer ses espions dans la Quête 9.
+• Résultat 5 (Agrain – Secret) : "Un plan montre un ‘sanctuaire’ caché sous les Halls de Vision, lié à Agrain." → Déverrouille un objectif secondaire : trouver un artefact nain perdu.
+• Résultat 6 (Skulmar – Révélation) : "Un journal révèle que Skulmar prépare une ‘cérémonie’ pour sa Légion dans les profondeurs." → Permet de saboter la cérémonie avant la Quête 7 (réduit ses bonus).
+
+
+
+🔍 Événements Clés & Choix des Joueurs
+1. Les Momies Gardiennes Dès leur entrée, les Momies naines (anciennes servantes d’Agrain) s’animent, leurs yeux s’illuminant d’une lueur rouge. • Option 1 : Les combattre (combat standard) – Récompense : Leurs bandelettes contiennent des poudres alchimiques (utilisables pour soigner ou comme explosif).
+• Option 2 : Les apaiser (jet de Religion ou Persuasion) – Réussite : "Agrain… nous attendons son retour." → Les Momies laissent passer les héros et révèlent un passage secret. – Échec : "Intrus !" → Combat immédiat.
+• Option 3 : Utiliser le Fer de l’Esprit (si les héros l’ont) – Effet : Les Momies reconnaissent l’arme et s’inclinent : "Prenez ceci, porteur de l’espoir d’Agrain." → Elles offrent une pierre de soin naine (1d8+2 PV).
+
+2. Le Laboratoire d’Agrain Au centre des Halls de Vision se trouve le laboratoire magique d’Agrain, rempli d’alambics, de parchemins et d’un autel central portant les 4 Clés d’Agrain (nécessaires pour avancer).
+Découvertes possibles : • Les 4 Clés d’Agrain : – Clé de Pierre : Ouvre les portes de mécanismes nains. – Clé de Glace : Désactive les pièges magiques. – Clé de Sang : Permet de corrompre temporairement un ennemi (1 utilisation). – Clé d’Âme : Révèle les illusions (ex : pièges cachés par Kessandria).
+• Un parchemin caché : "Skulmar n’était qu’un outil. Zargon a corrompu mon peuple en promettant l’immortalité… mais il a créé des monstres. La Légion Oubliée est son chef-d’œuvre. Trouvez le moyen de briser son emprise… ou fuyez avant qu’il ne soit trop tard."
+Piège possible : Si un héros touche l’autel sans précaution (jet de Perception échoué), un sort de vision se déclenche : "Vous voyez Skulmar, jeune capitaine loyal, recevant une épée noire des mains de Zargon. ‘Ta Légion sera éternelle,’ dit le démon. Skulmar rit… puis ses yeux deviennent noirs." → Le héros subit un malus de -1 aux jets de sauvegarde contre la peur jusqu’à la fin de l’Acte II.
+
+3. La Salle des Illusions Pour quitter les Halls de Vision, les héros doivent traverser une salle remplie d’illusions (créées par Agrain pour tester les intrus). • Option 1 : Utiliser la Clé d’Âme (désactive les illusions).
+• Option 2 : Résoudre une énigme (jet d’Intelligence ou d’Arcanes) – Énigme : "Je suis ce que vous craignez, mais sans moi, vous ne verrez jamais la vérité. Qui suis-je ?" (Réponse : l’illusion).
+• Option 3 : Forcer le passage (jet de Force) – Risque : Les illusions deviennent hostiles (ex : doubles maléfiques des héros).
+
+
+🔒 Quête 5 : La Porte de Bellthor 
+Lieu : Avant-poste de Skulmar, devant la Porte de Bellthor
+Dialogue (Voix du Mentor, urgent et grave) "Vous y êtes, mes amis…" (un souffle lourd, comme s’il retenait un avertissement) "Le véritable domaine du Seigneur Sorcier commence ici. Bellthor, sa gardienne éternelle, veille sur cette porte. Elle n’est pas une simple créature…" (sa voix se fait plus sombre) "…elle est liée à la pierre elle-même. Une fois entrés, il n’y aura plus de retour en arrière."
+Dialogue (Bellthor, grognement rauque) "INTRUS !" (un rugissement de pierre qui fait trembler les murs) "Vous osez défier la porte de Kalos ?" (elle déploie ses ailes, et une lueur violette enveloppe ses griffes) "Votre arrogance sera votre perte !"
+🎨 Ambiance Description (ton oppressant et claustrophobique) La Porte de Bellthor est une monstruosité de fer et de chair, comme si elle avait été forgée à partir de cadavres fusionnés. Des yeux rouges clignent dans les ombres, et une odeur de chair brûlée emplit l’air. Bellthor, la gargouille démoniaque, est perchée au-dessus de la porte, ses ailes déployées comme une menace. Des coffres en or noir brillent près des murs, mais leur contenu est probablement piégé.
+Les cavernes de Bellthor sont sombres et humides, les murs suintant une substance noire et visqueuse, comme si le Chaos lui-même les avait corrompus. Une porte en fer massif, couverte de runes du Chaos, bloque l’unique issue. Derrière elle, un souffle glacé s’échappe, comme si une créature ancienne y attendait. Soudain, un grattement de griffes retentit : Bellthor se réveille. Ses yeux rouges s’illuminent dans l’obscurité, et son souffle rauque emplit la salle d’une odeur de soufre.
+🎯 Objectifs de la Quête • Affronter, négocier ou contourner Bellthor, la gardienne démoniaque. • Décider que faire des coffres piégés en or noir. • Ouvrir la Porte de Bellthor pour accéder aux profondeurs du domaine du Seigneur Sorcier. • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+🎲 Carotte d’Enquête (Fin de Quête)
+• Résultat 1 (Skulmar – Lore) : "Les runes sur la porte décrivent la ‘Légion Oubliée’ : une armée de guerriers maudits." → Permet de repérer les faiblesses de la Légion dans la Quête 7.
+• Résultat 2 (Bellthor – Tactique) : "Bellthor craint le Fer de l’Esprit : son éclat la brûle." → Dans un futur combat, le Fer inflige +1d6 dégâts contre elle.
+• Résultat 3 (Skulmar – Tactique) : "Skulmar utilise des ‘clochettes d’alerte’ pour coordonner ses troupes." → Permet de désactiver une alerte dans la Quête 6.
+• Résultat 4 (Seigneur Sorcier – Tactique) : "Un parchemin mentionne que le Seigneur Sorcier ‘nourrit’ Bellthor avec des âmes." → Tuer Bellthor affaiblit le Seigneur Sorcier dans l’Acte V.
+• Résultat 5 (Skulmar – Secret) : "Un plan montre un ‘repaire secret’ de Skulmar près des Halls de la Mort (Quête 6)." → Permet de saboter ses réserves avant la Quête 6.
+• Résultat 6 (Seigneur Sorcier – Révélation) : "Un journal révèle que Bellthor est liée au Seigneur Sorcier par un ‘pacte de sang’." → Briser ce pacte (ex : avec le Fer de l’Esprit) affaiblit les deux dans l’Acte V.
+🔍 Événements Clés & Choix des Joueurs
+1. Bellthor, la Gardienne Bellthor observe les héros avec un sourire cruel. Elle ne les attaque pas immédiatement, comme si elle attendait un signal.
+• Option 1 : L’affronter directement (combat épique) – Récompense : Son cœur de pierre (artefact rare) et une carte partielle de la Légion Oubliée. – Risque : Bellthor explose en un gaz toxique à sa mort (jet de Constitution pour résister).
+• Option 2 : Négocier avec elle (jet de Persuasion ou Intimidation) – Réussite : "Skulmar vous sous-estime, mortels…" (un rire rauque) "Prenez ceci, et fuyez. Je ne vous retiens pas." → Elle leur donne un insigne de la Légion Oubliée (permet de passer incognito dans la Quête 6). – Échec : "Des intrus arrogants !" → Combat immédiat.
+• Option 3 : Utiliser un artefact (ex : Fer de l’Esprit) – Effet : Bellthor recule, effrayée. "Cette arme… Agrain !" → Les héros peuvent passer sans combat, mais Bellthor alerte Skulmar.
+
+2. Les Coffres Piégés Les coffres en or noir près des murs contiennent :
+• Option 1 : Les ouvrir avec précaution (jet de Dextérité ou d’Outils de voleur) – Réussite : Les héros trouvent 500 pièces d’or et un parchemin : "Skulmar prépare une cérémonie pour sa Légion. Interrompez-la, et ils seront vulnérables." – Échec : Un piège à venin se déclenche (jet de Constitution pour résister).
+• Option 2 : Les ignorer et avancer – Risque : Bellthor ricanera : "Des lâches ! L’or de Skulmar est maudit, de toute façon."
+
+3. Le Mécanisme de la Porte Pour ouvrir la Porte de Bellthor, les héros doivent :
+• Option 1 : Utiliser l’insigne de la Légion (obtenu via la négociation) – Effet : La porte s’ouvre sans résistance, mais Skulmar sera alerté de leur présence.
+• Option 2 : Forcer la serrure (jet de Force) – Réussite : La porte cède, mais un piège à lame se déclenche (jet de Dextérité pour l’éviter). – Échec : La porte résiste, et Bellthor attaque par surprise.
+• Option 3 : Résoudre l’énigme des runes (jet d’Arcanes) – Énigme : "Je suis la clé de la Légion, mais je ne suis pas en métal. Je suis la peur de Skulmar, mais je ne suis pas une épée. Qui suis-je ?" (Réponse : Bellthor) – Réussite : La porte s’ouvre, et Bellthor se retire, murmurant : "Skulmar va être furieux…"
+
+
+
+
+💀 Quête 6 : Les Halls de la Mort 
+Lieu : Prison du Seigneur Sorcier, où les héros se réveillent après leur défaite contre Bellthor
+Dialogue (Voix du Mentor, urgent et grave) "Réveillez-vous, mes amis…" (un souffle lourd, comme s’il retenait une mauvaise nouvelle) "Un sort terrible vous a été réservé. Vous êtes maintenant prisonniers du Seigneur Sorcier." (sa voix se fait plus sombre) "Vos compagnons, l’Elfe et le Barbare, ont été emmenés dans un lieu secret. Il compte les donner en pâture à ses créatures…" (un grincement de chaînes résonne dans les couloirs) "Vous devez les secourir et vous échapper par l’escalier en spirale ! Le temps presse…" (un éclair violet zèbre la cellule, comme un avertissement)
+Dialogue (Seigneur Sorcier, voix démoniaque et moqueuse) "Ah… enfin réveillés ?" (un rire glacé) "Vos amis vous attendent…" (un éclair noir jaillit de ses doigts) "…dans le ventre de mes bêtes. Mais peut-être préférerez-vous rejoindre leurs rangs ?" (un rire rauque résonne dans les couloirs)
+
+🎨 Ambiance Description (ton oppressant et désespéré) Les héros se réveillent dans une cellule humide et sombre, les murs couverts de moisissures noires et de runes du Chaos gravées à la hâte. Une odeur de soufre et de chair pourrie emplit l’air, comme si des créatures démoniaques rôdaient à proximité. Les chaînes cliquetent lorsqu’ils se relèvent, et des cris étouffés proviennent des couloirs. Une porte en fer rouillée bloque la sortie, mais une lueur bleutée filtre par les interstices, comme si une magie ancienne la maintenait verrouillée.
+
+🎯 Objectifs de la Quête • S’échapper de la cellule et retrouver la liberté. • Retrouver et sauver l’Elfe et le Barbare, enlevés par Skulmar. • Explorer le repaire secret de Skulmar (si les héros ont l’indice de la Quête 5). • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+
+🎲 Carotte d’Enquête (Fin de Quête):
+• Résultat 1 (Skulmar – Lore) : "Les murs portent des marques de la ‘Légion Oubliée’ : des noms de guerriers tombés." → Permet de trouver une faille dans leurs rangs lors de la Quête 7.
+• Résultat 2 (Skulmar – Tactique) : "Skulmar utilise des ‘clochettes’ pour coordonner ses attaques." → Permet de désorganiser ses troupes dans la Quête 7.
+• Résultat 3 (Kessandria – Tactique) : "Un parchemin mentionne que Kessandria a ‘maudit’ les cellules." → Utiliser le Fer de l’Esprit brise ses malédictions dans la Quête 9.
+• Résultat 4 (Seigneur Sorcier – Tactique) : "Le Seigneur Sorcier ‘nourrit’ ses prisonniers pour ses rituels." → Libérer les prisonniers affaiblit ses sorts dans l’Acte V.
+• Résultat 5 (Skulmar – Secret) : "Un plan montre un ‘autel de la Légion’ dans les profondeurs." → Permet de saboter la cérémonie avant la Quête 7.
+• Résultat 6 (Seigneur Sorcier – Révélation) : "Un journal révèle que Skulmar prépare un ‘rituel de liaison’ avec le Seigneur Sorcier." → Interrompre ce rituel affaiblit les deux dans l’Acte V.
+
+🔍 Événements Clés & Choix des Joueurs
+1. S’échapper de la Cellule • Option 1 : Forcer la porte (jet de Force) – Réussite : La porte cède, mais un garde démoniaque arrive en courant. – Échec : La porte résiste, et un gaz toxique remplit la cellule (jet de Constitution).
+• Option 2 : Utiliser un artefact (ex : Clé d’Agrain) – Effet : La porte s’ouvre sans bruit, mais les héros entendent Skulmar crier : "Trouvez-les !"
+• Option 3 : Distraire les gardes (jet de Tromperie) – Réussite : "Un prisonnier s’est échappé !" → Les gardes partent investiguer. – Échec : "C’est un piège !" → Combat immédiat.
+
+2. Retrouver l’Elfe et le Barbare Les héros trouvent une piste (traces de sang, cris lointains) menant à une salle de torture, où Skulmar interroge leurs compagnons.
+• Option 1 : Les sauver par la force (combat contre Skulmar et ses gardes) – Récompense : L’Elfe et le Barbare rejoignent le groupe, mais Skulmar s’échappe en jurant vengeance.
+• Option 2 : Négocier avec Skulmar (jet de Persuasion ou Intimidation) – Réussite : "Prenez-les, et partez. Mais sachez que vous venez de sceller votre destin." → Skulmar les laisse partir, mais prépare une embuscade pour la Quête 7. – Échec : "Vous osez me défier ?!" → Combat immédiat.
+• Option 3 : Utiliser un artefact (ex : Insigne de la Légion) – Effet : Les héros peuvent se faire passer pour des gardes et libérer leurs compagnons sans combat.
+
+3. Le Repaire Secret de Skulmar Si les héros ont trouvé l’indice dans la Quête 5, ils peuvent infiltrer le repaire secret de Skulmar avant de partir.
+Contenu du repaire : • Des plans de la Légion Oubliée (révèlent ses faiblesses). • Un coffre contenant une épée maudite (liée à Zargon) et un parchemin : "La cérémonie aura lieu dans les Halls de la Mort. Interrompez-la, et la Légion sera vulnérable."
+Piège : Si les héros prennent l’épée maudite, Skulmar les traquera jusqu’à la Quête 7.
+
+
+
+
+
+
+
+
+⚔️ Quête 7 : La Légion Oubliée 
+Lieu : Salle du trône de Skulmar, où il attend les héros avec sa Légion
+Dialogue (Voix de Skulmar, froide et cruelle) "Enfin…" (un rire glacé) "Les héros de l’Empire, venus jusqu’ici pour mourir." (il lève son épée, et des éclairs noirs dansent le long de la lame) "Mes guerriers ont attendu mille ans…" (un grincement de glace) "…et ils ont soif de sang."
+Dialogue (Voix des Guerriers de Glace, chuchotement spectral) "Nous étions les meilleurs…" (un murmure rauque) "Maintenant, nous sommes les oubliés." (un cliquetis d’armures) "Mais notre colère est toujours là."
+
+🎨 Ambiance Description (ton glacial et menaçant) Une salle vaste et sombre, éclairée par des torches violettes. Skulmar trône sur un siège de crânes fusionnés, entouré de sa Légion Oubliée (guerriers squelettiques en armure noire). Une odeur de métal et de soufre emplit l’air, et des clochettes résonnent comme un compte à rebours. Skulmar tient une épée noire (liée à Zargon), et son sourire cruel promet une mort lente.
+Les halls sont couverts d’une fine couche de givre, et des statues de guerriers en glace se dressent le long des murs, leurs visages figés dans une expression de haine éternelle. Une lueur bleutée émane des runes du Chaos gravées sur le sol, comme si une magie ancienne les maintenait prisonnières. L’air est silencieux, mais des grattements résonnent parfois, comme si quelque chose bougeait sous la glace. Soudain, un éclair violet zèbre la salle.
+
+🎯 Objectifs de la Quête • Interrompre la cérémonie de Skulmar qui lie sa Légion au Seigneur Sorcier. • Affronter Skulmar et sa Légion Oubliée. • Exploiter les faiblesses de Skulmar pour maximiser les chances de victoire. • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+
+🎲 Carotte d’Enquête (Fin de Quête) 
+• Résultat 1 (Skulmar – Lore) : "Les armures de la Légion portent des inscriptions naines : ‘Nous étions les gardiens.’" → Permet de trouver un allié parmi les squelettes dans l’Acte IV.
+• Résultat 2 (Seigneur Sorcier – Tactique) : "Skulmar mentionne un ‘rituel final’ dans la Cour du Seigneur Sorcier." → Révèle un objectif secondaire pour l’Acte V.
+• Résultat 3 (Kessandria – Tactique) : "Un parchemin montre que Kessandria a ‘corrompu’ les clochettes de Skulmar." → Désactiver les clochettes affaiblit aussi Kessandria dans la Quête 9.
+• Résultat 4 (Seigneur Sorcier – Tactique) : "Le Seigneur Sorcier utilise Skulmar comme ‘batterie’ pour ses sorts." → Tuer Skulmar réduit les PV du Seigneur Sorcier dans l’Acte V.
+• Résultat 5 (Skulmar – Secret) : "Un plan montre un ‘passage secret’ menant directement à la Cour du Seigneur Sorcier." → Permet d’éviter des pièges dans l’Acte V.
+• Résultat 6 (Seigneur Sorcier – Révélation) : "Un journal révèle que Skulmar est un ‘pion’ du Seigneur Sorcier." → Affaiblir Skulmar réduit les capacités du Seigneur Sorcier dans l’Acte V.
+
+
+🔍 Événements Clés & Choix des Joueurs
+1. La Cérémonie de Skulmar Skulmar est en train de lier sa Légion au Seigneur Sorcier via un rituel.
+• Option 1 : Interrompre le rituel (combat immédiat) – Récompense : La Légion est affaiblie (-1 aux jets d’attaque). – Risque : Skulmar invoque des renforts (1d4 guerriers supplémentaires).
+• Option 2 : Saboter l’autel (jet de Dextérité ou d’Arcanes) – Réussite : Le rituel est interrompu, et Skulmar perd son bonus de liaison. – Échec : L’autel explose (1d6 dégâts de feu à tous les héros).
+• Option 3 : Négocier avec la Légion (jet de Persuasion ou Religion) – Réussite : "Nous étions autrefois des guerriers d’honneur…" → Une partie de la Légion se rebelle contre Skulmar. – Échec : "Traîtres !" → La Légion attaque avec rage.
+
+2. Le Combat contre Skulmar Skulmar est un guerrier redoutable, mais ses faiblesses peuvent être exploitées :
+Faiblesses : • Faiblesse 1 : Il craint le Fer de l’Esprit (s’il est utilisé, Skulmar recule pendant 1 round). • Faiblesse 2 : Ses clochettes coordonnent ses attaques (les désactiver avec un jet de Dextérité désorganise ses troupes). • Faiblesse 3 : Il est lié à Bellthor (si elle a été tuée, Skulmar perd 10 PV au début du combat).
+Récompenses possibles : • Épée noire de Skulmar (maudite, mais puissante). • Insigne de la Légion Oubliée (peut être utilisé pour contrôler temporairement un guerrier squelettique). • Parchemin de stratégie militaire (révèle les plans du Seigneur Sorcier pour l’Acte V).
+
+
+
+
+
+
+
+
+
+
+________________________________________
+💀 Quête 8 : Les Cavernes Interdites 
+Lieu : Profondeurs organiques de Kalos, où la cité se révèle comme une nécropole vivante
+Dialogue (Voix des Mineurs Morts, chuchotements éthérés) "Vous êtes entrés dans la Cité Interdite…" (un murmure rauque, comme le vent dans un puits) "Personne n’en est jamais ressorti vivant." (un rire étouffé) "Les murs écoutent… les pièges guettent… et les morts ont faim."
+Dialogue (Voix de Loretome, écho lointain) "Méfiez-vous, mes amis…" (un souffle grave) "Ces cavernes sont maudites. Les trésors y sont empoisonnés, et les pièges y sont vivants." (un grattement sinistre résonne) "Trouvez la porte avant que les cavernes ne vous engloutissent… ou que ses gardiens ne vous dévorent."
+🎨 Ambiance Description (ton claustrophobique et menaçant) Les Cavernes Interdites sont un dédale de tunnels sombres, où les parois suintent une substance noire et visqueuse, comme si le Chaos lui-même les avait infectées. Une odeur de pourriture et de métal rouillé emplit l’air, et des gémissements lointains résonnent, comme si les âmes des mineurs morts murmuraient des avertissements. Des fissures zèbrent les plafonds, prêtes à s’effondrer, et des lueurs vertes pulsent dans les profondeurs, comme si des yeux démoniaques observaient les héros.
+L’escalier en spirale par lequel ils sont entrés semble se refermer derrière eux, et une porte en bois, marquée de symboles nains, brille faiblement au loin. Mais le chemin pour l’atteindre est jonché de pièges organiques et de créatures corrompues.
+🎯 Objectifs de la Quête • Traverser les Cavernes Interdites en évitant ou surmontant les pièges organiques. • Affronter ou contourner les créatures corrompues qui rôdent dans les tunnels. • Découvrir la Salle des Plumes de Contrepoison (si les héros explorent une salle cachée). • Atteindre la porte en bois pourri menant à la Dernière Porte (Quête 9). • Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+🎲 Carotte d’Enquête (Fin de Quête) 
+• Résultat 1 (Agrain – Lore) : "Les plumes étaient utilisées par les rois nains pour sceller les poisons du Chaos." → Permet de neutraliser un poison dans la Quête 9.
+• Résultat 2 (Kessandria – Tactique) : "Kessandria utilise des ‘nuages de poison’ pour affaiblir ses ennemis." → Les Plumes de Contrepoison protègent contre ses attaques dans la Quête 9.
+• Résultat 3 (Seigneur Sorcier – Tactique) : "Un parchemin mentionne que le Seigneur Sorcier ‘nourrit’ les cavernes avec des âmes." → Tuer les créatures affaiblit le Seigneur Sorcier dans l’Acte V.
+• Résultat 4 (Kessandria – Secret) : "Les plumes peuvent être utilisées pour corrompre Kessandria elle-même." → Permet de l’affaiblir temporairement dans la Quête 9.
+• Résultat 5 (Agrain – Secret) : "Un plan montre un ‘sanctuaire’ caché où Agrain stockait ses artefacts." → Déverrouille un objectif secondaire : trouver un artefact perdu dans la Quête 9.
+• Résultat 6 (Seigneur Sorcier – Révélation) : "Un journal révèle que Kessandria prépare un ‘rituel de lien’ avec le Seigneur Sorcier." → Interrompre ce rituel affaiblit les deux dans l’Acte V.
+
+🔍 Événements Clés & Choix des Joueurs
+1. Les Pièges Organiques Dès leur entrée, les héros doivent traverser une zone où les murs bougent et où des pièges vivants (racines, stalactites, fosses remplies de sang) les attendent.
+• Option 1 : Avancer prudemment (jet de Perception) – Réussite : Les héros évitent les pièges et trouvent un passage sûr. – Échec : Un piège se déclenche (ex : une racine attrape un héros, 1d6 dégâts + immobilisé).
+• Option 2 : Utiliser le Fer de l’Esprit (si les héros l’ont) – Effet : Le Fer repousse les racines et révèle un chemin caché.
+• Option 3 : Forcer le passage (jet de Force) – Réussite : Les héros brisent les obstacles, mais alertent les créatures. – Échec : Un effondrement bloque le chemin (jet de Dextérité pour éviter 2d6 dégâts).
+
+2. Les Créatures Corrompues Des créatures (anciens mineurs transformés en monstres, ou des démons mineurs) rôdent dans les cavernes.
+• Option 1 : Les combattre (combat standard) – Récompense : Leurs cœurs corrompus (peuvent être utilisés comme explosifs ou pour affaiblir Kessandria).
+• Option 2 : Les éviter (jet de Discrétion) – Réussite : Les héros passent inaperçus. – Échec : Les créatures les attaquent par surprise.
+• Option 3 : Les corrompre temporairement (jet de Persuasion ou Tromperie, si les héros ont un artefact corrompu) – Réussite : Les créatures deviennent neutres pendant 1d4 rounds. – Échec : Elles deviennent hostiles et appellent des renforts.
+
+3. La Salle des Plumes de Contrepoison Si les héros explorent une salle cachée (jet de Perception pour la trouver), ils découvrent un autel nain couvert de plumes dorées (les Plumes de Contrepoison).
+Contenu de la salle : • 3 Plumes de Contrepoison (peuvent neutraliser les poisons de Kessandria dans la Quête 9). • Un parchemin : "Ces plumes furent imprégnées du sang des anciens rois nains. Elles peuvent purifier les poisons les plus mortels… ou empoisonner les plus purs. Kessandria en a peur. Utilisez-les bien."
+• Piège : Si un héros touche les plumes sans précaution (jet de Sagesse échoué), il est empoisonné (1d6 dégâts par round jusqu’à guérison).
+
+
+
+
+🌌 Quête 9 : La Dernière Porte 
+Lieu : Antichambre de la Cour du Seigneur Sorcier, dernière épreuve avant le trône
+Dialogue (Voix du Mentor, grave et urgente) "Vous y êtes, mes amis…" (un souffle lourd, comme s’il retenait un avertissement) "La Dernière Porte. Derrière elle, le Seigneur Sorcier vous attend." (sa voix se fait plus sombre) "Mais d’abord, vous devrez affronter les Guerriers du Malheur… et Kessandria."
+Dialogue (Kessandria, voix envoûtante et cruelle) "Enfin…" (un rire mélodieux mais glacé) "Les héros de l’Empire, venus jusqu’ici pour mourir." (elle lève les mains, et des éclairs violets dansent autour de ses doigts) "Mes guerriers ont soif de sang…" (un sourire démoniaque) "…et moi, j’ai soif de vos âmes."
+🎨 Ambiance
+Description (ton épique et menaçant) Une salle vaste et sombre, éclairée par des torches violettes dont les flammes semblent vivantes. Les murs sont couverts de runes du Chaos, et une odeur de soufre emplit l’air. Des armures noires, appartenant aux Guerriers du Malheur, brillent d’une lueur maléfique, comme si elles attendaient le combat. Au fond de la salle, une porte en bois massif mène à l’escalier en spirale vers le Seigneur Sorcier, mais elle est bloquée par une magie ancienne.
+Soudain, une voix rauque résonne : Kessandria, la Reine Sorcière, émerge de l’ombre. Ses yeux brillent d’une lueur démoniaque, et elle est entourée d’une aura de pouvoir. Ses doigts crachent des éclairs violets.
+🎯 Objectifs de la Quête
+•	Affronter Kessandria, la Reine Sorcière, et ses Guerriers du Malheur.
+•	Trouver un moyen d’ouvrir la Porte Maudite menant au Seigneur Sorcier.
+•	Obtenir une "Carotte d’Enquête" (jet de dé en fin de quête).
+🎲 Carotte d’Enquête (Fin de Quête)
+•	Résultat 1 (Kessandria – Lore) : "Les runes sur la porte décrivent un ‘sceau de Kessandria’ : un sort de protection." → Permet de briser un sort du Seigneur Sorcier dans l’Acte V.
+•	Résultat 2 (Kessandria – Tactique) : "Kessandria utilise des ‘miroirs d’âme’ pour espionner ses ennemis." → Briser les miroirs affaiblit ses sorts dans un futur combat.
+•	Résultat 3 (Seigneur Sorcier – Tactique) : "Un parchemin mentionne que le Seigneur Sorcier ‘puise’ sa force dans la peur." → Réduire ses PV en le surprenant dans l’Acte V.
+•	Résultat 4 (Kessandria – Secret) : "Le bâton de Chaos peut être utilisé pour corrompre le Seigneur Sorcier lui-même." → Permet de l’affaiblir dans l’Acte V (1 utilisation).
+•	Résultat 5 (Agrain – Secret) : "Un plan montre un ‘autel de purification’ caché dans la Cour du Seigneur Sorcier." → Déverrouille un objectif secondaire : purifier l’autel pour affaiblir le boss final.
+•	Résultat 6 (Seigneur Sorcier – Révélation) : "Un journal révèle que Kessandria est liée au Seigneur Sorcier par un ‘pacte de sang’." → Briser ce pacte affaiblit les deux dans l’Acte V.
+
+🔍 Événements Clés & Choix des Joueurs
+1. Kessandria, la Reine Sorcière Kessandria observe les héros avec un sourire envoûtant, ses yeux brillants d’une lueur démoniaque.
+•	Option 1 : L’affronter directement (combat épique)
+o	Récompense : Son bâton de Chaos (artefact puissant) et un parchemin révélant un sort de lien avec le Seigneur Sorcier.
+o	Risque : Kessandria invoque des démons mineurs (1d4) si le combat dure plus de 3 rounds.
+•	Option 2 : Négocier avec elle (jet de Persuasion ou Intimidation)
+o	Réussite : "Vous êtes plus malins que je ne le pensais…" (un rire mélodieux) "Prenez ceci, et partez. Mais sachez que le Seigneur Sorcier vous attend… et il n’est pas aussi clément que moi." → Elle leur donne une potion de résistance magique.
+o	Échec : "Des intrus arrogants !" → Combat immédiat.
+•	Option 3 : Utiliser les Plumes de Contrepoison (si les héros en ont)
+o	Effet : Kessandria recule, son aura faiblit. "Ces plumes… Agrain !" → Les héros peuvent passer sans combat, mais Kessandria maudit la porte (jet de Constitution pour résister au poison en l’ouvrant).
+2. Les Guerriers du Malheur Si les héros choisissent de combattre Kessandria, les Guerriers du Malheur (ses gardes) interviennent après 2 rounds.
+•	Option 1 : Les affronter (combat groupé).
+•	Option 2 : Les distraire (jet de Tromperie) 
+o	Réussite : "Une diversion !" → Les Guerriers partent investiguer, laissant Kessandria vulnérable.
+o	Échec : "Un piège !" → Les Guerriers attaquent avec rage.
+3. La Porte Maudite Pour ouvrir la porte menant au Seigneur Sorcier, les héros doivent :
+•	Option 1 : Utiliser le bâton de Chaos (si Kessandria est vaincue)
+o	Effet : La porte s’ouvre sans résistance, mais le bâton se brise.
+•	Option 2 : Forcer la serrure (jet de Force)
+o	Réussite : La porte cède, mais un piège à poison se déclenche (jet de Constitution).
+o	Échec : La porte résiste, et Kessandria se moque : "Vous n’êtes pas dignes !"
+•	Option 3 : Résoudre l’énigme des runes (jet d’Arcanes)
+o	Énigme : "Je suis la clé de la fin, mais je ne suis pas en métal. Je suis la peur du Seigneur Sorcier, mais je ne suis pas une épée. Qui suis-je ?" (Réponse : la vérité)
+o	Réussite : La porte s’ouvre, et une vision d’Agrain apparaît : "Brisez ses chaînes…" (bonus moral pour l’Acte V).
+
+
+
+________________________________________
+⚔️ Quête 10 : La Cour du Seigneur Sorcier 
+Lieu : Salle du trône de Kalos, repaire final du Seigneur Sorcier
+________________________________________
+Dialogue (Voix du Mentor, grave et solennelle)
+"Vous y êtes, mes amis…" (un souffle lourd, comme s’il portait le poids du monde) "La Cour du Seigneur Sorcier." (sa voix se fait plus sombre) "C’est ici que tout se termine… ou que tout commence." (un éclair violet zèbre la salle) "Il vous a observés, testés, affaiblis… et maintenant, il vous attend."
+Dialogue (Seigneur Sorcier, voix triomphante et démoniaque)
+"Enfin…" (un rire glacé, comme le grincement de la glace) "Les héros de l’Empire, venus jusqu’ici pour mourir." (il lève son bâton, et des éclairs noirs dansent autour de ses doigts) "Vous avez survécu à mes pièges, à mes serviteurs, à mes illusions…" (un sourire cruel) "…mais vous ne survivrez pas à moi."
+________________________________________
+🎨 Ambiance
+Description (ton épique et apocalyptique) La Salle du Trône est une cathédrale de ténèbres, éclairée par des torches violettes dont les flammes semblent vivantes. Les murs, couverts de runes du Chaos, suintent une substance noire et visqueuse, comme si la pierre elle-même était corrompue. Quatre statues d’Orcs, immobiles et menaçantes, bloquent les issues, leurs yeux brillant d’une lueur rougeâtre.
+Au centre, un trône de pierre noire supporte la silhouette du Seigneur Sorcier, entouré d’une aura de pouvoir démoniaque. Deux Guerriers du Malheur se tiennent à ses côtés, leurs armures noires reflétant la lueur des torches. Une odeur de soufre emplit l’air, et des chuchotements démoniaques murmurent des menaces depuis les ombres.
+________________________________________
+🎯 Objectifs de la Quête
+•	Affronter le Seigneur Sorcier et ses Guerriers du Malheur.
+•	Décider de la stratégie pour vaincre : attaquer directement, cibler la pierre rouge (son cœur lié à Zargon), ou utiliser les artefacts (Fer de l’Esprit, Plumes de Contrepoison, bâton de Kessandria).
+•	Survivre à la résurrection de Zargon si le combat traîne.
+
+
+
+
+🔍 Événements Clés & Choix des Joueurs
+1. Le Discours du Seigneur Sorcier
+Le Seigneur Sorcier se lève lentement, un sourire cruel aux lèvres : "Enfin… Les héros de l’Empire, venus jusqu’ici pour mourir. Vous avez survécu à mes serviteurs, à mes pièges, à mes illusions… Mais ici, dans ma cour, vous n’êtes rien." "Regardez autour de vous. Ces statues ? Ce sont les âmes de ceux qui ont échoué avant vous. Ces chaînes ? Elles lient mes guerriers à ma volonté. Et cette pierre ?" (il désigne la pierre rouge sous son trône) "C’est le cœur de Kalos. Mon lien avec Zargon. Brisez-la, et vous briserez aussi votre dernier espoir de victoire."
+Options des héros :
+•	Option 1 : L’affronter directement (combat épique).
+•	Option 2 : Cibler la pierre rouge (son cœur, liée à Zargon).
+•	Option 3 : Utiliser les artefacts (Fer de l’Esprit, Plumes de Contrepoison, bâton de Kessandria).
+
+2. Le Combat Final
+Phase 1 : Les Guerriers du Malheur
+•	Le Seigneur Sorcier envoie ses Guerriers du Malheur en premier. Stratégie : Les héros peuvent : 
+o	Les affronter directement (combat groupé).
+o	Utiliser les Clés d’Agrain pour briser leurs chaînes (jet d’Arcanes, désactive un Guerrier).
+o	Les corrompre temporairement (avec un artefact corrompu, jet de Persuasion).
+Phase 2 : Le Seigneur Sorcier
+•	Une fois les Guerriers vaincus, le Seigneur Sorcier se lève et invoque des sorts dévastateurs : 
+o	Attaques possibles : 
+	Boule de feu noire (3d6 dégâts, jet de Dextérité pour esquiver).
+	Liens du Chaos (immobilise un héros, jet de Force pour se libérer).
+	Appel de Zargon (invoque 1d4 démons mineurs).
+Faiblesses à exploiter :
+•	La pierre rouge : Si les héros la brisent (jet de Force ou utilisation du Fer de l’Esprit), le Seigneur Sorcier perd 20 PV et ses sorts sont affaiblis.
+•	Le Fer de l’Esprit : Inflige +2d6 dégâts et brise ses sorts pendant 1 round.
+•	Les Plumes de Contrepoison : Neutralisent ses attaques empoisonnées.
+Phase 3 : La Résurrection de Zargon
+•	Si le combat traîne, le Seigneur Sorcier commence un rituel pour ressusciter Zargon. 
+o	Effet : Une ombre géante (Zargon) commence à émerger du sol.
+o	Stratégie : Les héros doivent interrompre le rituel (jet d’Arcanes ou attaque sur le Seigneur Sorcier) avant la fin du 5ème round, sinon Zargon apparaît (combat presque impossible à gagner).
+
+
+
+3. La Fin du Seigneur Sorcier
+•	Si les héros vainquent le Seigneur Sorcier :
+o	Son corps se désintègre en une nuée de corbeaux noirs, qui s’envolent en hurlant.
+o	La pierre rouge explose, et une lueur dorée (l’âme d’Agrain) apparaît brièvement : "Enfin… Kalos est libre. Merci, héros. Que votre nom soit gravé dans la pierre."
+o	Les murs de Kalos tremblent, et les héros ont 10 minutes pour fuir avant que la forteresse ne s’effondre.
+•	Si les héros échouent :
+o	Zargon émerge triomphant, et Kalos devient son repaire.
+o	Les héros peuvent fuir (jet de Dextérité) ou se sacrifier pour sceller Zargon (fin héroïque, mais mortelle).
+--------------------------------------- 🌌 Épilogue : Le Destin de Kalos--------------------------------------------
+Scène finale (si les héros gagnent) :
+Alors que les héros fuient Kalos, la forteresse s’effondre dans un rugissement, scellant à jamais le Seigneur Sorcier et ses horreurs. Le Mentor les attend à l’extérieur, un sourire fier aux lèvres : "Vous l’avez fait. Kalos est libre. Mais souvenez-vous : le mal ne meurt jamais vraiment. Il attend… il observe… et il reviendra." "Mais aujourd’hui, vous êtes des héros. Et votre légende commence ici."
+Scène finale (si les héros perdent) :
+Si Zargon émerge, une ombre géante enveloppe Kalos, et les héros (s’ils ont survécu) fuient dans l’horreur. Le Mentor, blessé mais vivant, murmure : "Ce n’est pas fini… Zargon est de retour. Mais tant qu’il y a de l’espoir, la lutte continue. Préparez-vous. La prochaine bataille sera bien pire."
+--------------------------------------🔮 ÉPILOGUE : LE DESTIN DE L’EMPEREUR-----------------------------------
+Scène finale :
+•	Si victoire :
+o	Les héros sont reçus par l’Empereur dans le Grand Palais.
+o	Dialogue (Empereur, voix solennelle) : "Vous avez sauvé l’Empire, braves héros…" (il lève une coupe d’or) "…et pour cela, vous serez honorés comme des légendes ! Mais souvenez-vous : le Chaos ne dort jamais."
+o	Le Mentor apparaît : "Skulmar s’est échappé avec les grimoires…" (un éclair violet zèbre le ciel) "…et il reviendra."
+•	Si défaite :
+o	Le ciel se déchire, et des légions de démons envahissent l’Empire.
+o	Dialogue (Zargon, voix apocalyptique) : "L’Ère du Chaos commence…" (un rire démoniaque) "…et vous en serez les premiers esclaves !"
+
+
