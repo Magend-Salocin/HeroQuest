@@ -1,3 +1,38 @@
+# Calendrier du siège
+
+> Synthèse de `../support_campagne_01.txt`. Les descriptions lues aux joueurs, les ambiances et les dialogues restent dans le TXT historique.
+
+## Message de Mentor
+
+Mentor annonce que l'Empereur est assiégé dans le Donjon de Kellar (Karak Varn), encerclé par les légions de Grawshak, et que les vivres manquent. Les tunnels des Nains sont infestés d'Orcs et de Gobelins. Le seul espoir est le Pic de Grin, un passage secret mentionné dans le grand livre de Loretome, à condition de rassembler les fragments de la Carte de Grin dispersés dans les Halls de Belorn, hantés et piégés.
+
+## Jour par jour
+
+| Jour | Titre | Événement | Choix ou conséquence indiqués |
+| --- | --- | --- | --- |
+| 0 | Le siège commence | Les hordes encerclent la forteresse. Un messager impérial mourant remet une carte partielle des tunnels et une médaille de l'Empereur. | Objets remis aux héros. |
+| 1 | Résistance organisée | Un soldat près de l'entrée des Halls de Belorn donne une fiole de potion de résistance. | La fiole est symbolique, sans effet mécanique. |
+| 2 | Résistance organisée | Des nains survivants montrent une rune de compte à rebours : « trois jours ». | Aucun effet indiqué. |
+| 3 | Résistance organisée | Un éclaireur blessé remet un parchemin scellé, message de l'Empereur. | Aucun effet indiqué. |
+| 4 | Premières brèches | Un nain blessé donne une clé rouillée qui ouvre la porte est des Halls de Belorn. | **Optionnel :** prendre la clé donne un raccourci dans la quête suivante (-1 jour). |
+| 5 | Message désespéré | Un pigeon voyageur apporte un message de l'Empereur ; on entend le rire de Grawshak. | Aucun effet indiqué. |
+| 6 | Chute des tours de guet | Les tours sont tombées ; un éclaireur meurt en tenant une médaille identique à celle des héros. | Les coffres de vivres des quêtes suivantes sont vides (remplacés par des pièges ou des cadavres). |
+| 7 | Assaut des catapultes | Un bloc de pierre barre le passage direct ; une main squelettique tend une carte partielle des tunnels. | Détour : +1 jour. **Optionnel :** suivre la carte évite un piège majeur (exemple cité : la boule de pierre du Passage en Spirale). |
+| 8 | Trahison | Un chevalier impérial couvert de runes du Chaos bloque la route ; un ordre de l'Empereur le déclare traître. | Le chevalier réapparaît comme ennemi dans une quête ultérieure (exemple cité : la Grande Citadelle). |
+| 9 | Dernières réserves | Des soldats affamés regardent les provisions des héros. | **Dilemme :** partager les vivres (perte de ressources, respect des PNJ) ou refuser (soldats hostiles dans les quêtes suivantes). |
+| 10 | Les portes tremblent | Les portes du donjon cèdent ; un messager meurt en remettant une bague impériale. | Les ennemis des quêtes suivantes sont plus agressifs (dialogues plus menaçants, attaques surprises). |
+| 11 | L'Empereur blessé | Un soldat apporte un message de l'Empereur, qui ne tiendra pas 48 heures. | La bague impériale brille ; portée devant la Gargouille du Pic de Grin, celle-ci hésite avant d'attaquer. |
+| 12 | Effondrement des défenses | Les Orcs sont dans le donjon ; un nain meurt en laissant une pierre gravée du symbole de l'ultime sacrifice. | Les derniers alliés PNJ meurent ; les ennemis sont plus nombreux (exemple cité : +1 Orc par combat). |
+| 13 | Chute de Karak Varn | Deux issues. **Échec :** l'Empereur est mort, Grawshak règne sur le donjon. **Réussite :** l'Empereur est vivant, les nains font sauter les tunnels pour sceller Zargon à l'intérieur. | Fin de la campagne telle que décrite dans la source. |
+
+## Points à arbitrer
+
+- Combien de jours du siège s'écoulent par quête, et comment les jours de voyage perdus s'y rapportent : aucune source ne le dit.
+- Les effets « dans les quêtes suivantes » ne sont rattachés à aucune quête précise. L'exemple du jour 7 cite la boule de pierre du Passage en Spirale (quête 3), ce qui suppose que le jour 7 arrive avant cette quête.
+- Seule la bague impériale a un effet indiqué ; la médaille de l'Empereur, la fiole, les parchemins et la pierre gravée sont des objets de récit.
+- « Zargon » apparaît au jour 13 alors que Grawshak est l'adversaire partout ailleurs.
+
+
 📜 MESSAGE DE MENTOR
 (Ton : Solennel, urgent. Mentor parle d’une voix grave, comme s’il portait le poids de l’Empire sur ses épaules.)"Mes amis, j’ai des nouvelles alarmantes. L’Empereur est assiégé dans le Donjon de Kellar, la forteresse souterraine de Karak Varn. Ce bastion, jadis imprenable, est maintenant encerclé par les légions de Grawshak. Les vivres manquent, et chaque jour qui passe affaiblit nos défenses. Les tunnels des Nains, autrefois nos alliés, sont maintenant infestés d’Orcs et de Gobelins. Mais il reste un espoir : le Pic de Grin, un passage secret oublié, mentionné dans le grand livre de Loretome. Ce passage pourrait nous permettre de sauver l’Empereur… si vous parvenez à rassembler les fragments de la carte de Grin, dispersés dans les Halls de Belorn. Méfiez-vous, car ces lieux sont hantés par les ombres des rois nains et gardés par des pièges mortels. Le temps nous est compté. Allez, mes amis. L’Empire compte sur vous."
 
