@@ -1,0 +1,55 @@
+{
+  "titre": "Le retour de l'Épée souveraine",
+  "origine": "Le Mage du Miroir (2023), quête 1 en solo, carte p. 14 et notes p. 15 du PDF",
+  "depart": 0,
+  "pieces": {
+    "A": [
+      [0, 0, 25, 0], [0, 1, 0, 9], [25, 1, 25, 10],
+      [1, 9, 9, 9], [16, 9, 24, 9],
+      [12, 1, 13, 6], [9, 6, 16, 6],
+      [9, 7, 9, 12], [16, 7, 16, 12], [10, 12, 15, 12],
+      [12, 13, 13, 18]
+    ],
+    "B": [[9, 13, 11, 17]],
+    "C": [[17, 1, 20, 4]],
+    "D": [[14, 1, 16, 5]],
+    "E": [[9, 1, 11, 5]],
+    "F": [[1, 1, 4, 3]],
+    "G": [[5, 1, 8, 3]],
+    "H": [[5, 4, 8, 8]],
+    "I": [[10, 7, 15, 11]],
+    "J": [[21, 1, 24, 4]],
+    "K": [[14, 13, 17, 17]]
+  },
+  "portes": [
+    [52, 53], [56, 57], [84, 110], [86, 87],
+    [15, 41], [94, 95], [46, 47], [102, 103],
+    [197, 198], [453, 454], [455, 456]
+  ],
+  "bloquees": [
+    14, 51, 234, 285, 402, 403, 480, 481,
+    35, 36, 37, 140, 141,
+    42, 92, 93, 118, 119, 144, 145,
+    188, 189, 190, 214, 215, 216,
+    218, 219, 220,
+    347, 348, 349, 399, 425, 451,
+    379, 380, 405, 406, 431, 432
+  ],
+  "pieges": [272, 298],
+  "monstres": [
+    [1, 28], [1, 55],
+    [1, 59],
+    [17, 137], [1, 161],
+    [2, 89],
+    [15, 45], [16, 96], [15, 121],
+    [17, 48], [15, 101],
+    [1, 374], [1, 426],
+    [1, 352], [1, 407]
+  ],
+  "victoire": {"fouiller": ["D"], "sortie": [0]},
+  "remarques": [
+    "Départ et sortie : porte en fer, case 0. Victoire : fouiller la pièce D (l'Épée souveraine est dans la tombe), puis revenir en case 0.",
+    "Non modélisé par le moteur : trappes reliées 296 et 428 (note A, B et K sont donc inaccessibles), immobilité des monstres de C (note C),",
+    "coffre piégé de D (note D), piège à monstre errant en 257 (momie), oubliette longue 272-298 remplacée par deux pièges."
+  ]
+}
